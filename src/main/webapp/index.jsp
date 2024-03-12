@@ -13,7 +13,7 @@
 	%>
     <section class="container">
         <div class="iteam div1">
-            <img src="./imgs/142.jpg" alt="" class="home-pic">
+            <img src="imgs/142.jpg" alt="" class="home-pic">
         </div>
         <div class="iteam singin">
             <div class="heading">
@@ -68,7 +68,7 @@
                   </div>
                     <div class="form__group field" id="btns">
                         <button type="submit">Submit</button>
-                        <a href="./singin.jsp"><button type="button" id="login">Login</button></a>
+                        <a href="singin.jsp"><button type="button" id="login">Login</button></a>
                     </div>
                 </div>
             </form>
