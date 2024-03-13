@@ -68,7 +68,7 @@
                   </div>
                     <div class="form__group field" id="btns">
                         <button type="submit">Submit</button>
-                        <a href="singin.jsp"><button type="button" id="login">Login</button></a>
+                        <a href="src/main/webapp/singin.jsp"><button type="button" id="login">Login</button></a>
                     </div>
                 </div>
             </form>
